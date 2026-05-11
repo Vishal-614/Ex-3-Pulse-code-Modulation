@@ -157,6 +157,7 @@ plt.tight_layout(rect=[0, 0, 1, 0.93])
 plt.show()
 ```
 # Output Waveform
+
 PCM
 <img width="917" height="828" alt="Screenshot 2026-05-11 103442" src="https://github.com/user-attachments/assets/d9791f63-9588-4c08-81b2-676602e62760" />
 DELTA MODULATION
